@@ -1,0 +1,10 @@
+C:\Users\annas\source\repos\POPNET\POPNET\bin\Debug\POPNET.exe.config
+C:\Users\annas\source\repos\POPNET\POPNET\bin\Debug\POPNET.exe
+C:\Users\annas\source\repos\POPNET\POPNET\bin\Debug\POPNET.pdb
+C:\Users\annas\source\repos\POPNET\POPNET\obj\Debug\POPNET.csprojAssemblyReference.cache
+C:\Users\annas\source\repos\POPNET\POPNET\obj\Debug\POPNET.Form1.resources
+C:\Users\annas\source\repos\POPNET\POPNET\obj\Debug\POPNET.Properties.Resources.resources
+C:\Users\annas\source\repos\POPNET\POPNET\obj\Debug\POPNET.csproj.GenerateResource.cache
+C:\Users\annas\source\repos\POPNET\POPNET\obj\Debug\POPNET.csproj.CoreCompileInputs.cache
+C:\Users\annas\source\repos\POPNET\POPNET\obj\Debug\POPNET.exe
+C:\Users\annas\source\repos\POPNET\POPNET\obj\Debug\POPNET.pdb
